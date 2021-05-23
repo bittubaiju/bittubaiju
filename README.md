@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bittubaiju
 - 👀 I’m interested in network automation
-- 🌱 I’m currently learning pyton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on network automation using pyton.
 - 📫 You can reach me over my email: bittubaiju2756@gmail.com
 
